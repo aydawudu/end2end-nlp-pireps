@@ -63,7 +63,7 @@ scipy==1.9.2
 semver==2.13.0
 six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
 smmap==5.0.0
-streamlit==1.13.0
+#streamlit==1.13.0
 tensorboard==2.10.1
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
